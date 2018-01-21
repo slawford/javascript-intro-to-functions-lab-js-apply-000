@@ -15,5 +15,5 @@ function logWhisper(string){
 }
 
 function sayHiToGrandma(string){
-  return string.Equal()
+  return ('hello')).toEqual("I can't hear you!")
 }
